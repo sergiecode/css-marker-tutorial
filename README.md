@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/css-marker-tutorial/master/css-marker-tutorial.jpg)
+![Como cambiar el estilo de los marcadores en las listas HTML con CSS](https://raw.githubusercontent.com/sergiecode/css-marker-tutorial/master/css-marker-tutorial.jpg)
 
 
 # Tutorial de uso del pseudoelemento `::marker` en CSS
